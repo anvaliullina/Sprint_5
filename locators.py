@@ -21,3 +21,6 @@ LOGOUT_BUTTON = (By.XPATH, "//button[text()='Выход']")  # Кнопка вы
 BUNS_TAB = (By.XPATH, "//span[text()='Булки']/..")  # Вкладка «Булки»
 SAUCES_TAB = (By.XPATH, "//span[text()='Соусы']/..")  # Вкладка «Соусы»
 FILLINGS_TAB = (By.XPATH, "//span[text()='Начинки']/..")  # Вкладка «Начинки»
+
+ORDER_BUTTON = (By.XPATH, "//button[text()='Оформить заказ']")  # Кнопка «Оформить заказ» на главной странице
+ORDER_BUTTON = (By.XPATH, "//button[text()='Оформить заказ']")  # Кнопка «Оформить заказ»
